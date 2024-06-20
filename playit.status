@@ -1,623 +1,474 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718851832804 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718854232876 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851835854 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854235928 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851838909 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854238981 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851841972 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854242030 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851845033 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854245072 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851848094 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854248129 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851851180 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854251180 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851854233 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854254221 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851857287 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854257310 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851860332 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854260384 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851863409 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854263474 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851866480 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854266542 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851869531 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854269620 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851872606 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854272751 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851875668 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854275790 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851878735 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854278852 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851881785 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854281981 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851884853 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854285067 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851887921 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854288129 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851890962 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854291192 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851894001 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854294252 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851897042 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854297310 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851900111 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854300349 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851903154 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854303387 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851906201 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854306425 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851909254 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854309473 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851912302 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854312532 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851915411 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854315581 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851918465 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854318633 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851921529 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854321676 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851924590 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854324722 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851927658 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854327772 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851930703 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854330824 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851933859 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854333878 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851937013 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854336933 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851940107 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854339985 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851943146 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854343048 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851946193 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854346103 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851949244 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854349164 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851952301 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854352219 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851955339 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854355272 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851958404 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854358403 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851961447 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854361455 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851964490 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854364525 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851967528 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854367573 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851970577 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854370634 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851973612 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854373689 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851976707 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854376737 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851979745 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854379772 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851982897 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854382904 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851986030 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854385957 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851989123 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854389005 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851992170 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854392055 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851995378 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854395103 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718851998429 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854398144 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852001496 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854401183 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852004553 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854404254 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852007626 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854407347 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852010714 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854410403 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852013779 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854413463 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852016835 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854416515 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852019903 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854419573 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852023018 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854422625 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852026056 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854425681 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852029132 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854428727 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852032179 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854431794 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852035255 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854434865 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852038304 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854437931 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852041363 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854440968 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852044414 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854444050 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852047467 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854447103 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852050586 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854450153 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852053636 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854453218 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852056737 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854456268 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852059897 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854459335 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852062955 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854462385 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852065991 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854465423 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852069051 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854468482 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852072090 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854471542 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852075205 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854474638 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852078257 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854477712 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852081306 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854480780 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852084365 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854483825 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852087415 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854486871 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advertise-varies.gl.at.ply.gg:2428 => 127.0.0.1:2428 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718852090526 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854489909 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718852093574 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854492958 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718852096665 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854496009 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718852099730 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854499049 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718852102823 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854502133 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718852105878 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854505202 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718852109028 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854508266 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718852112079 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854511337 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718852115128 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854514376 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718852118185 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854517445 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718852121239 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718852124322 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718852127375 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718852130431 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718852133503 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718852136584 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718852139622 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718852142660 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718852145749 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718852148796 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718852151849 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718852154903 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718852157961 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-season-needed.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718852161018 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718854520507 tunnel running, 1 tunnels registered
 
 
 TUNNELS
